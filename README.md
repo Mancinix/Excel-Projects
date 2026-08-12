@@ -79,13 +79,6 @@ This project strengthened skills in:
 
 ---
 
-If you want, I can also help you:
-
-✅ Add a project structure section  
-✅ Add badges (e.g., Excel, Data Analytics, Bootcamp)  
-✅ Format screenshots for GitHub  
-✅ Turn this into a portfolio‑ready write‑up  
-
 ### Pivot Table and Pivot Charts
 <img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/d803c380-a962-4141-90af-315458570529" />
 
