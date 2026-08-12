@@ -80,12 +80,8 @@ This project strengthened skills in:
 ---
 
 ### Pivot Table and Pivot Charts
-<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/d803c380-a962-4141-90af-315458570529" />
+<img width="510" height="407" alt="brave_jvDdas6fZJ" src="https://github.com/user-attachments/assets/0c648c45-1c1e-4aec-b8e1-d3a0be90b86d" />
 
+<img width="512" height="451" alt="brave_wlBeRyPyvM" src="https://github.com/user-attachments/assets/737a1422-43d1-4981-9f31-9e1e467f74c7" />
 
-### Visualization
-<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/3e15c5e9-88e5-4313-8ffe-5404eaaec0c0" />
-
-### Retail Sales Analysis
-<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/a3d4d484-6a6c-4d95-85aa-a951dfa7668d" />
-
+<img width="563" height="405" alt="brave_lY4k6apfIm" src="https://github.com/user-attachments/assets/fac8e801-3eee-439a-8cd6-5a71c763f298" />
